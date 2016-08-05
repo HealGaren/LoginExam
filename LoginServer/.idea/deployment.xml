@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="App:ple pi">
+    <serverData>
+      <paths name="App:ple pi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/yechan/LoginTest" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/node_modules" />
+            <excludedPath path="/yechan/LoginTest/node_modules" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="applepi root">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

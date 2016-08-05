@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="63faa96b-ecea-48b9-8813-e191985becdf" name="App:ple pi" url="http://applepi.kr">
+        <fileTransfer host="applepi.kr" port="22" rootFolder="/home/azureuser" accessType="SFTP" password="dfcbdfdadfdadfc6dfcfdfdadfc3dfc7df8bdfc4dfd9df9adf9a" username="azureuser">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2f0a44a6-157f-4cef-b509-0937b1088227" name="applepi root" url="http://applepi.kr">
+        <fileTransfer host="applepi.kr" port="22" accessType="SFTP" password="dfcbdfdadfdadfc6dfcfdfdadfc3dfc7df8bdfc4dfd9df9adf9a" username="azureuser">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
